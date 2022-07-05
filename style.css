@@ -1,0 +1,99 @@
+.orange {
+    color: chocolate;
+
+}
+
+.motto {
+    padding-top: 100%;
+    width: 100%;
+    font-size: 70px;
+    padding-top: 25%;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+    position: relative;
+    width: 100%;
+    padding-left: 3%;
+}
+
+.s1img {
+    font-size: 70px;
+    padding-top: 10%;
+    width: 100%;
+    height: 100%;
+}
+
+.s2img {
+    padding-top: 10px;
+    width: 50%;
+    height: 50%;
+}
+
+.paragraph {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hirebutton {
+    text-decoration: none;
+    background-color: coral;
+    background-image: linear-gradient(rgb(8, 125, 146), rgb(31, 177, 80));
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: 700;
+
+}
+
+.banner2 {
+    background-image: url("images/shapes/Frame\ 58.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.sec2 {
+    padding-top: 100px;
+    text-align: left;
+
+}
+
+.sec3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.flexible {
+    width: 50%;
+    padding: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    padding-top: 5px;
+
+}
+
+#allign1 {
+    text-align: left;
+    width: 30%;
+}
+
+#allign2 {
+    text-align: center;
+    width: 30%;
+    padding-left: 40%;
+}
+
+#align3 {
+    text-align: right;
+}
+
+.fot {
+    background-color: rgb(48, 37, 37);
+    text-align: center;
+    height: 100px;
+    color: aliceblue;
+}
